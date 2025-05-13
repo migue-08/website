@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Master thesis code\n\n\n\nPython\n\nR\n\nData Cleaning\n\nData Visualization\n\n\n\nThis project involves the use R, Python, and STATA tools in order to reproduce the empirical exercise of the thesis article. It includes data importing, cleaning, transforming, merging, modelling and, series handling, and regression analysis.\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Education in Latin America\n\n\n\nR\n\ntidyverse\n\ndplyr\n\nggplot\n\n\n\nThis project involves creating visualizations to show some features of education in Latin America according to ‘our world in data’. It includes scatter plots handling and use of dplyr and ggplot packages.\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical exercise in R\n\n\n\nR\n\ndplyr\n\nData Visualization\n\n\n\nThis project focuses on solving statistical exercises according to a made-up database. Includes importing, processing, and transforming the data, with additional exercises involving visualizations.\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing banrep data\n\n\n\nR\n\nData Visualization\n\nggplot\n\n\n\nThis project involves creating visualizations to show the evolution of the interest rate of colombian’s central bank. It includes data extraction from public database, data cleaning, transformation, and using the visualization’s library ggplot.\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing labour market\n\n\n\nR\n\nData Visualization\n\nggplot\n\n\n\nThis project involves creating visualizations to show the progress of employment, unemployment, and labor force participation in Colombia. It includes data extraction from public databases, and using ggplot library to create the graphs.\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing GDP\n\n\n\nR\n\nData Visualization\n\nggplot\n\n\n\nThis project involves creating visualizations to show the development of GDP in Colombia. It includes data extraction from public databases, data cleaning, and using ggplot to create the graphs.\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing leading economic indicator index\n\n\n\nR\n\nData Visualization\n\nggplot\n\n\n\nThis project involves creating visualizations to show trends in the leading economic indicator ‘ISE’ in Colombia. It includes data extraction from public database, data cleaning, and using ggplot to create interactive graphs.\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing CPI\n\n\n\nR\n\nData Visualization\n\nggplot\n\n\n\nThis project involves creating visualizations to show the progression of Consumer Price Index in Colombia. It includes data extraction from public database, data cleaning, and using ggplot to create graphs.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Miguel Martinez",
+    "section": "",
+    "text": "I am a professional economist with experience in financial, tax consulting services, and data analytics. I have helped a tax consulting firm fulfill different transfer pricing documentation for clients based on OECD guidelines, i.e., local files, transfer pricing returns, country-by-country notifications, and others. I have worked with an executive director of an NGO performing industry sector analysis (in terms of production, sales, and foreign trade), database updates, creation of visualizations, tables, and others. Additionally, I have solid academic experience in data science and programming in R, RStudio, and Python to perform data analyses and economic research.\nSome examples include:\nI get excited about opportunities where I get to turn data into insights and visualizations in order to communicate the results to technical and non-technical audiences.\nOutside of work, I enjoy gym, being active outside, running, and meeting new people, so please say hello!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Miguel Martinez",
+    "section": "Education",
+    "text": "Education\nPontificia Universidad Javeriana, Bogotá, Colombia | M.S. Economics | Jan 2019 - present\nPontificia Universidad Javeriana, Bogotá, Colombia | B.S Economics | Jan 2014 - Sep 2018"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Miguel Martinez",
+    "section": "Experience",
+    "text": "Experience\nKPMG Colombia | Transfer pricing analyst | Mar 2022 - Aug 2023\nAsociación Nacional de Empresarios - ANDI | Internship | Jan 2018 - Jul 2018"
+  }
+]
