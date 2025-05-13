@@ -1,0 +1,39 @@
+---
+title: "Miguel Martinez"
+subtitle: "Data Scientist | Economist"
+image: profile.jpeg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/migue-08
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/memj08/
+---
+
+I am a professional economist with experience in financial, tax consulting services, and data analytics. I have helped a tax consulting firm fulfill different transfer pricing documentation for clients based on OECD guidelines, i.e., local files, transfer pricing returns, country-by-country notifications, and others. I have worked with an executive director of an NGO performing industry sector analysis (in terms of production, sales, and foreign trade), database updates, creation of visualizations, tables, and others. Additionally, I have solid academic experience in data science and programming in R, RStudio, and Python to perform data analyses and economic research.
+
+Some examples include:
+
+- As a tax consulting analyst at KPMG Colombia, I worked with the transfer pricing team to achieve during the fiscal year 2021 and 2022 more than 20 transfer pricing documentation for different clients across different sectors.
+- As a Master's student, I became passionate about exploring, processing, cleaning, modelling, and transforming different datasets in Python and R, creating informative visualizations, and communicating the results with Quarto. Some examples are available in my GitHub repositories.
+- As an intern, I learned the value of discussion and negotiations between the private sector and government agencies.
+
+I get excited about opportunities where I get to turn data into insights and visualizations in order to communicate the results to technical and non-technical audiences.
+
+Outside of work, I enjoy gym, being active outside, running, and meeting new people, so please say hello!
+
+## Education
+
+Pontificia Universidad Javeriana, Bogotá, Colombia \| M.S. Economics \| Jan 2019 - present
+
+Pontificia Universidad Javeriana, Bogotá, Colombia \| B.S Economics \| Jan 2014 - Sep 2018
+
+## Experience
+
+KPMG Colombia \| Transfer pricing analyst \| Mar 2022 - Aug 2023
+
+Asociación Nacional de Empresarios - ANDI \| Internship \| Jan 2018 - Jul 2018

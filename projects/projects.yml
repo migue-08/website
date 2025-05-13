@@ -1,0 +1,80 @@
+- title: Master thesis code
+  path: https://github.com/migue-08/Research_paper_MS_econ
+  image: images/pandas.svg
+  description: >
+    This project involves the use R, Python, and STATA tools in order to reproduce 
+    the empirical exercise of the thesis article. It includes data importing, cleaning,
+    transforming, merging, modelling and, series handling, and regression analysis.
+  categories: [Python, R, Data Cleaning, Data Visualization]
+  date: 2025-05-01
+
+- title: Visualizing Education in Latin America
+  path: https://migue-08.github.io/Education/
+  image: images/tidyverse.png
+  description: >
+    This project involves creating visualizations to show some features of education
+    in Latin America according to 'our world in data'. It includes scatter plots handling
+    and use of dplyr and ggplot packages.
+  categories: [R, tidyverse, dplyr, ggplot]
+  date: 2025-04-01
+
+- title: Statistical exercise in R
+  path: https://migue-08.github.io/SP/
+  image: images/tidyverse.png
+  description: >
+    This project focuses on solving statistical exercises according to a made-up 
+    database. Includes importing, processing, and transforming the data, with
+    additional exercises involving visualizations.
+  categories: [R, dplyr, Data Visualization]
+  date: 2025-03-01
+
+- title: Visualizing banrep data
+  path: https://migue-08.github.io/REPO/
+  image: images/tidyverse.png
+  description: >
+    This project involves creating visualizations to show the evolution of the interest rate
+    of colombian's central bank. It includes data extraction from public database, 
+    data cleaning, transformation, and using the visualization's library ggplot.
+  categories: [R, Data Visualization, ggplot]
+  date: 2025-03-01
+
+- title: Visualizing labour market
+  path: https://migue-08.github.io/Labour_market/
+  image: images/tidyverse.png
+  description: >
+    This project involves creating visualizations to show the progress of employment,
+    unemployment, and labor force participation in Colombia. It includes data extraction
+    from public databases, and using ggplot library to create the graphs.
+  categories: [R, Data Visualization, ggplot]
+  date: 2025-04-01
+  
+- title: Visualizing GDP
+  path: https://migue-08.github.io/PIB/
+  image: images/tidyverse.png
+  description: >
+    This project involves creating visualizations to show the development of GDP
+    in Colombia. It includes data extraction from public databases, data cleaning,
+    and using ggplot to create the graphs.
+  categories: [R, Data Visualization, ggplot]
+  date: 2025-04-01
+  
+- title: Visualizing leading economic indicator index
+  path: https://migue-08.github.io/ISE/
+  image: images/tidyverse.png
+  description: >
+    This project involves creating visualizations to show trends in the leading 
+    economic indicator 'ISE' in Colombia. It includes data extraction from public
+    database, data cleaning, and using ggplot to create interactive graphs.
+  categories: [R, Data Visualization, ggplot]
+  date: 2025-04-01
+  
+- title: Visualizing CPI
+  path: https://migue-08.github.io/IPC/
+  image: images/tidyverse.png
+  description: >
+    This project involves creating visualizations to show the progression of Consumer
+    Price Index in Colombia. It includes data extraction from public database, 
+    data cleaning, and using ggplot to create graphs.
+  categories: [R, Data Visualization, ggplot]
+  date: 2025-04-01
+  

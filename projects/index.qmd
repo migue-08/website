@@ -1,0 +1,13 @@
+---
+title: Projects
+listing:
+  contents: projects.yml
+  type: grid
+  max-description-length: 250
+  sort-ui: false
+  filter-ui: false
+  fields: [image, title, description, categories]
+  field-display-names: 
+    title: "Project"
+    categories: "Skills"
+---

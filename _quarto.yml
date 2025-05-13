@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Home"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer:
+    left: "Built with Quarto"
+    center: "Copyright 2025, Miguel Martinez"
+  navbar:
+    title: Miguel Martinez
+    left: 
+      - text: "hello world"
+    right:
+      - href: projects/index.qmd
+        icon: folder
+    tools:
+      - icon: github
+        href: https://github.com/migue-08
+      - icon: linkedin
+        href: https://www.linkedin.com/in/memj08/
+format:
+  html:
+    fontsize: 16px
+    theme: [cosmo, styles.scss]
