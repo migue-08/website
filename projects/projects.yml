@@ -40,7 +40,7 @@
 
 - title: Visualizing labour market
   path: https://migue-08.github.io/Labour_market/
-  image: images/tidyverse.png
+  image: images/dplyr.png
   description: >
     This project involves creating visualizations to show the progress of employment,
     unemployment, and labor force participation in Colombia. It includes data extraction
