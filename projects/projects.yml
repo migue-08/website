@@ -50,7 +50,7 @@
   
 - title: Visualizing GDP
   path: https://migue-08.github.io/PIB/
-  image: images/tidyverse.png
+  image: images/tidyr.png
   description: >
     This project involves creating visualizations to show the development of GDP
     in Colombia. It includes data extraction from public databases, data cleaning,
