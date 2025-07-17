@@ -18,6 +18,24 @@
   categories: [R, tidyverse, dplyr, ggplot]
   date: 2025-04-01
 
+- title: Tidy Tuesday
+  path: https://github.com/migue-08/tidytuesday
+  image: images/python.png
+  description: >
+    In this project you can find the notebooks with the development of my personal
+    contributions to Data Science Learning Community. Tidy Tuesday: A weekly social data project.
+  categories: [Python, pandas, matplotlib]
+  date: 2025-07-17
+
+- title: Exchange rate
+  path: https://nbviewer.org/github/migue-08/TRM/blob/main/TRM.ipynb
+  image: images/python.png
+  description: >
+    In this project, you can see the documents required to reproduce the data analysis
+    in order to visualize the latest COP/USD exchange rate.
+  categories: [Python, pandas, matplotlib]
+  date: 2025-07-10
+    
 - title: Statistical exercise in R
   path: https://migue-08.github.io/SP/
   image: images/tidyverse.png
