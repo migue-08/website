@@ -14,25 +14,28 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://www.linkedin.com/in/memj08/
 ---
 
-I am a professional economist with experience in financial, tax consulting services, and data analytics. I have helped a tax consulting firm fulfill different transfer pricing documentation for clients based on OECD guidelines, i.e., local files, transfer pricing returns, country-by-country notifications, and others. I have worked with an executive director of an NGO performing industry sector analysis (in terms of production, sales, and foreign trade), database updates, creation of visualizations, tables, and others. Additionally, I have solid academic experience in data science and programming in R, RStudio, and Python to perform data analyses and economic research.
+I'm a compliance analyst with a background in economics, financial tax consulting services, and data analytics. I helped a tax consulting team fulfill different transfer pricing documentation for clients based on OECD guidelines, and local legislation, i.e., local files, transfer pricing returns, country-by-country notifications, and others. I have worked with an executive director of an NPO performing industry sector analysis (in terms of production, sales, and foreign trade), database updates, creation of visualizations, tables, and others. In addition, I have solid academic experience in data science programming and using R, RStudio, and Python to perform diverse data analyses and economic research.
 
 Some examples include:
 
+- As an Antimoney Laundering (AML) compliance analyst at Citibank Colombia, I have been working in the Client Review and Investigation Unit having an important role in the war against financial crime.
 - As a tax consulting analyst at KPMG Colombia, I worked with the transfer pricing team to achieve during the fiscal year 2021 and 2022 more than 20 transfer pricing documentation for different clients across different sectors.
-- As a Master's student, I became passionate about exploring, processing, cleaning, modelling, and transforming different datasets in Python and R, creating informative visualizations, and communicating the results with Quarto. Some examples are available in my GitHub repositories.
+- As a M.S. student, I became passionate about exploring, processing, cleaning, modelling, and transforming different datasets in Python and R, creating informative visualizations, and communicating the results with Quarto. Some examples are available in my GitHub repositories.
 - As an intern, I learned the value of discussion and negotiations between the private sector and government agencies.
 
 I get excited about opportunities where I get to turn data into insights and visualizations in order to communicate the results to technical and non-technical audiences.
 
-Outside of work, I enjoy gym, being active outside, running, and meeting new people, so please say hello!
+Outside of work, I enjoy gym, being active outside, and meeting new people, so please say hello and connect!
 
 ## Education
 
-Pontificia Universidad Javeriana, Bogotá, Colombia \| M.S. Economics \| Jan 2019 - present
+Pontificia Universidad Javeriana, Bogotá, Colombia \| M.S. Economics \| Jan 2019 - 2025
 
 Pontificia Universidad Javeriana, Bogotá, Colombia \| B.S Economics \| Jan 2014 - Sep 2018
 
 ## Experience
+
+Citibank Colombia \| AML Compliance analyst \| Sept 2025 - present
 
 KPMG Colombia \| Transfer pricing analyst \| Mar 2022 - Aug 2023
 
