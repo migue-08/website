@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Miguel Martinez – Home</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -35,10 +38,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-7aa2134a8b37512d4bd72d7ce6a0bd2a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a6a6fd9c9979322b80cb1cb9b149bb29.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -142,13 +145,12 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>I’m a compliance analyst with a background in economics, financial tax consulting services, and data analytics. I helped a tax consulting team fulfill different transfer pricing documentation for clients based on OECD guidelines, and local legislation, i.e., local files, transfer pricing returns, country-by-country notifications, and others. I have worked with an executive director of an NPO performing industry sector analysis (in terms of production, sales, and foreign trade), database updates, creation of visualizations, tables, and others. In addition, I have solid academic experience in data science programming and using R, RStudio, and Python to perform diverse data analyses and economic research.</p>
+<p>I’m a AML (Antimoney laundering) analyst with a background in economics, financial tax consulting services, and data analytics. I worked as a tax consultant fulfilling different transfer pricing documentation for business clients according to OECD guidelines, and local legislation, i.e., local files, transfer pricing returns, country-by-country notifications, and others.In addition, I have solid academic experience in data science programming and using R, RStudio, and Python to perform diverse data analyses and economic research.</p>
 <p>Some examples include:</p>
 <ul>
-<li>As an Antimoney Laundering (AML) compliance analyst at Citibank Colombia, I have been working in the Client Review and Investigation Unit having an important role in the war against financial crime.</li>
+<li>As an Antimoney Laundering (AML) analyst at Citibank Colombia, I have been working in the Client Review and Investigation Unit having an strategic role in the protection of the integrity of the financial system.</li>
 <li>As a tax consulting analyst at KPMG Colombia, I worked with the transfer pricing team to achieve during the fiscal year 2021 and 2022 more than 20 transfer pricing documentation for different clients across different sectors.</li>
-<li>As a M.S. student, I became passionate about exploring, processing, cleaning, modelling, and transforming different datasets in Python and R, creating informative visualizations, and communicating the results with Quarto. Some examples are available in my GitHub repositories.</li>
-<li>As an intern, I learned the value of discussion and negotiations between the private sector and government agencies.</li>
+<li>In my academic experience, I became passionate about exploring, processing, cleaning, modelling, and transforming different datasets in Python and R, creating informative visualizations, and communicating the results with Quarto. Some examples are available in my GitHub repositories.</li>
 </ul>
 <p>I get excited about opportunities where I get to turn data into insights and visualizations in order to communicate the results to technical and non-technical audiences.</p>
 <p>Outside of work, I enjoy gym, being active outside, and meeting new people, so please say hello and connect!</p>
@@ -212,13 +214,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -567,7 +570,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Built with Quarto</p>
 </div>   
     <div class="nav-footer-center">
-<p>Copyright 2025, Miguel Martinez</p>
+<p>Copyright 2026, Miguel Martinez</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;
