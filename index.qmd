@@ -14,14 +14,13 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://www.linkedin.com/in/memj08/
 ---
 
-I'm a compliance analyst with a background in economics, financial tax consulting services, and data analytics. I helped a tax consulting team fulfill different transfer pricing documentation for clients based on OECD guidelines, and local legislation, i.e., local files, transfer pricing returns, country-by-country notifications, and others. I have worked with an executive director of an NPO performing industry sector analysis (in terms of production, sales, and foreign trade), database updates, creation of visualizations, tables, and others. In addition, I have solid academic experience in data science programming and using R, RStudio, and Python to perform diverse data analyses and economic research.
+I'm a AML (Antimoney laundering) analyst with a background in economics, financial tax consulting services, and data analytics. I worked as a tax consultant fulfilling different transfer pricing documentation for business clients according to OECD guidelines, and local legislation, i.e., local files, transfer pricing returns, country-by-country notifications, and others.In addition, I have solid academic experience in data science programming and using R, RStudio, and Python to perform diverse data analyses and economic research.
 
 Some examples include:
 
-- As an Antimoney Laundering (AML) compliance analyst at Citibank Colombia, I have been working in the Client Review and Investigation Unit having an important role in the war against financial crime.
+- As an Antimoney Laundering (AML) analyst at Citibank Colombia, I have been working in the Client Review and Investigation Unit having an strategic role in the protection of the integrity of the financial system.
 - As a tax consulting analyst at KPMG Colombia, I worked with the transfer pricing team to achieve during the fiscal year 2021 and 2022 more than 20 transfer pricing documentation for different clients across different sectors.
-- As a M.S. student, I became passionate about exploring, processing, cleaning, modelling, and transforming different datasets in Python and R, creating informative visualizations, and communicating the results with Quarto. Some examples are available in my GitHub repositories.
-- As an intern, I learned the value of discussion and negotiations between the private sector and government agencies.
+- In my academic experience, I became passionate about exploring, processing, cleaning, modelling, and transforming different datasets in Python and R, creating informative visualizations, and communicating the results with Quarto. Some examples are available in my GitHub repositories.
 
 I get excited about opportunities where I get to turn data into insights and visualizations in order to communicate the results to technical and non-technical audiences.
 
